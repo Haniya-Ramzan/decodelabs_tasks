@@ -26,9 +26,6 @@ Responsive-Frontend-Project-1/
 │── script.js
 │── README.md
 
-## 🚀 Live Demo
-https://github.com/Haniya-Ramzan/decodelabs_tasks/Responsive-Frontend-Project-1/
-
 ## 👩‍💻 Author
 
 **Haniya Ramzan**
@@ -78,10 +75,6 @@ MediCare-Hospital-Project-2/
 │── script.js
 │── package.json
 │── README.md
-
-## 🚀 Live Demo
-
-https://github.com/haniya-ramzan/decodelabs_tasks/MediCare-Hospital-Project-2/
 
 ## ⚙️ Backend Setup
 
