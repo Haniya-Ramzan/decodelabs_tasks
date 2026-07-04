@@ -8,7 +8,7 @@ It is developed as part of the Decode Labs Internship Program to demonstrate fro
 ---
 
 ## 🚀 Live Demo
-https://haniya-ramzan.github.io/decodelabs_tasks/MediCare-Hospital-Project-2/
+https://Haniya-Ramzan.github.io/decodelabs_tasks/MediCare-Hospital-Project-2/
 
 ---
 
