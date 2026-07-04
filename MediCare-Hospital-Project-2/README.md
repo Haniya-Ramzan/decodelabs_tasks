@@ -81,7 +81,7 @@ http://localhost:3000
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/Haniya-Ramzan/DecodeLabs-Internship
+https://github.com/Haniya-Ramzan/decodelabs_tasks
 
 ---
 
