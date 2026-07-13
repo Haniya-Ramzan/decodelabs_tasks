@@ -7,11 +7,6 @@ It is developed as part of the Decode Labs Internship Program to demonstrate fro
 
 ---
 
-## 🚀 Live Demo
-https://haniya-ramzan.github.io/DecodeLabs-Internship/MediCare-Hospital-Project/
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -81,7 +76,7 @@ http://localhost:3000
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/Haniya-Ramzan/DecodeLabs-Internship
+https://github.com/Haniya-Ramzan/decodelabs_tasks
 
 ---
 
